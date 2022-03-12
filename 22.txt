@@ -1,1 +1,4 @@
-555Wdfsfsfs
+存檔順序
+git add .
+git commit -m"22檔名"
+git push
