@@ -2,4 +2,9 @@
 git add .
 git commit -m"22檔名"
 git push
-ok
+<<<<<<< HEAD
+ok  trytry
+
+=======
+okok
+>>>>>>> refs/remotes/origin/master
