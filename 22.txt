@@ -2,3 +2,4 @@
 git add .
 git commit -m"22檔名"
 git push
+ok
